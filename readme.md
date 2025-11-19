@@ -70,19 +70,19 @@ Os itens usados (mas que podem ser substituídos por equivalentes) são:
 #### Conexões
 
 - VIN Alimentação da bateria
-- GND Controlado por switch
+- __GND__ Controlado por switch
 
 ##### Servomotores
 
-- D9 Servo 1 (eixo X)
-- D10 Servo 2 (eixo Y)
-- 5V e GND
+- __D9__ Servo 1 (eixo X)
+- __D10__ Servo 2 (eixo Y)
+- __5V__ e __GND__
 
 ##### Giroscópio
 
-- A4 Conectado no SDA
-- A5 Conectado no SCL
-- 3.3V e GND
+- __A4__ Conectado no SDA
+- __A5__ Conectado no SCL
+- __3.3V__ e __GND__
 
 &nbsp;
 
